@@ -179,7 +179,7 @@
                     <maximum_number_of_attachments>2</maximum_number_of_attachments>
                 </mechanics>
                 <motility>
-                    <speed units="micron/min">3</speed>
+                    <speed units="micron/min">5</speed>
                     <persistence_time units="min">1</persistence_time>
                     <migration_bias units="dimensionless">.75</migration_bias>
                     <options>
